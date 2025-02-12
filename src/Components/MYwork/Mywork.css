@@ -25,7 +25,6 @@
   grid-template-columns: 1fr 1fr 1fr;
   gap: 30px;
   padding: 0px 30px;
-  margin-top: -40px;
 }
 .mywork-container img {
   box-sizing: border-box;
@@ -47,10 +46,9 @@
   border: 2px solid white;
   font-size: 22px;
   font-weight: 500;
-  margin-bottom: 50px;
   padding: 30px 50px;
   cursor: pointer;
-  margin-top: -40px;
+  margin-top: -10px;
 }
 .mywork_showmore:hover {
   gap: 30px;

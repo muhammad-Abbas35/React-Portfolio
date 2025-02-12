@@ -42,7 +42,7 @@ export const Contact = () => {
           <label htmlFor="">Write Your Message Here</label>
           <textarea
             name="message"
-            rows="6"
+            rows="8"
             placeholder="Enter Your Message"
           ></textarea>
           <button type="submit" className="contact-submit">
