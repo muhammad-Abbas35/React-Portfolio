@@ -13,12 +13,17 @@
   padding: 0px 30px;
   font-size: 80px;
   font-weight: 600;
+  margin-top: -10px;
+
+  margin-bottom: -30px;
 }
 .about-title img {
   position: absolute;
   bottom: 0;
   right: 0;
   z-index: -1;
+  margin-bottom: -30px;
+  margin-top: -10px;
 }
 .about-section {
   display: flex;
